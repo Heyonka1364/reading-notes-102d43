@@ -11,7 +11,11 @@ Hi, my name is Jared Plummer.
 
 - *Failure* is something to be prepared for and grow from 
 
->
+>A few modern philosophers assert that an individual’s intelligence is a fixed 
+quantity, a quantity which cannot be increased. We must protest and react 
+against this brutal pessimism... With practice, training, and above all, 
+method, we manage to increase our attention, our memory, our judgement 
+and literally to become more intelligent than we were before. ~ALFRED BINET
 
 ![This is a image](https://media.makeameme.org/created/you-got-this-2d58ec8834.jpg)
 
