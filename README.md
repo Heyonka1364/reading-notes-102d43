@@ -11,6 +11,8 @@ Hi, my name is Jared Plummer.
 
 - *Failure* is something to be prepared for and grow from 
 
+>
+
 ![This is a image](https://media.makeameme.org/created/you-got-this-2d58ec8834.jpg)
 
 
