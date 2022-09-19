@@ -12,5 +12,5 @@ Hi, my name is Jared Plummer.
 - *Failure* is something to be prepared for and grow from :hugs:
 
 
-Link to my portfolio [Github Markdown](https://github.com/JaredPlummer5)
+Link to my portfolio (https://github.com/JaredPlummer5)
 My Code Fellows Notes
