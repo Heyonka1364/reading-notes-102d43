@@ -9,7 +9,7 @@ Hi, my name is Jared Plummer.
 
 - *Always* remember to give your brain a break :grinning: :face_with_spiral_eyes:
 
-- *Failure* is something to be prepared for and grow from ![This is a image](https://cdn.shopify.com/s/files/1/1061/1924/products/Smiling_Face_Emoji_large.png?v=1571606036)
+- *Failure* is something to be prepared for and grow from ![This is a image](https://media.makeameme.org/created/you-got-this-2d58ec8834.jpg)
 
 
 Link to my portfolio [My Code Fellows Notes](https://github.com/JaredPlummer5)
