@@ -5,15 +5,11 @@ Hi, my name is Jared Plummer.
 
 **Growth Mindset**
 
--*Never* compare yourself to others becasue you might be starting at a different spot than them
-:x:
+- *Never* compare yourself to others becasue you might be starting at a different spot than them :x:
 
--*Always* remember to give your brain a break
-:grinning:
-:face_with_spiral_eyes:
+- *Always* remember to give your brain a break :grinning: :face_with_spiral_eyes:
 
--*Failure* is something to be prepared for and grow from
-:hugs:
+- *Failure* is something to be prepared for and grow from :hugs:
 
 
 Link to my portfolio */https://github.com/JaredPlummer5
