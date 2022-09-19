@@ -5,7 +5,7 @@ Hi, my name is Jared Plummer.
 
 **Growth Mindset**
 
--*Never* compare yourself to others becasue you might be starting at a different spot than them :X:
+-*Never* compare yourself to others becasue you might be starting at a different spot than them :x:
 
 -*Always* remember to give your brain a break :grinning: :face_with_spiral_eyes:
 
