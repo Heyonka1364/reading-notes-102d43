@@ -30,9 +30,9 @@ You can see an example of this further down when we start talking about the form
 
 Markdown is also capable of showcasing bold, italized, and a combination of the all of them.
 
-- Bold letters would be \**Insert Text**. Two asterix on both side of selected text
-- Italic letter would be \*Insert Text* One asterix on both side of selected text
-- Bold and Italic letters would be \***insert _text_ here***. Three asterix on both side of selected text and one underscore on both sides of selected text
+- Bold letters would be two asterix on both side of selected text
+- Italic letter would be one asterix on both side of selected text
+- Bold and Italic letters would be three asterix on both side of selected text and one underscore on both sides of selected text
 
 See example in order below
 
@@ -44,13 +44,13 @@ See example in order below
 
 Moving on to images. Images can really pull a website together and with Markdown we can pull images from all over the internet.
 
-The syntax for an image would be \*![This is not an image](insert image address)\*. 
+The syntax for an image would be *![This is not an image](insert image address)*. 
 
 You can make the text anything you want and the text will show up as the url link on your website.
 
 And then we learned how to link a url link and attach it to our website. 
 
-The code for that would be \*[Insert text](insert url link)\*. 
+The code for that would be *[Insert text](insert url link)*. 
 
 You can make the text anything you want and the text will show up as the url link on your website. 
 
