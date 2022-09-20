@@ -1,10 +1,5 @@
-# reading-notes-102d43
 
-***My Reading Journal***
-
-Hi, my name is Jared Plummer.
-
-## Markdown
+# Markdown
 
 Markdown is a simpler version of HTML. It syntax is much different. Markdown uses symbols to achive differernt formats.
 
@@ -21,7 +16,7 @@ Markdown is also capable of showcasing bold, italized, and a combination of the 
 
 See example in order below.
 
-**Insert Text**
+**InsertText**
 
 *Insert Text*
 
@@ -41,24 +36,4 @@ You can make the text anything you want and the text will show up as the url lin
 
 The link to my portfolio down below is a perfect example of what it should look like.
 
-## Table Of Contents
-
-[Class 1](./102/Class1.md)
-
-[Class 2](./102/Class2.md)
-
-[Class 3](./102/Class3.md)
-
-[Class 4](./102/Class4.md)
-
-[Class 5](./102/Class5.md)
-
-[Class 6](./102/Class.6md)
-
-[Class 7](./102/Class7.md)
-
-[Class 8](./102/Class8.md)
-
-
-
-Link to my portfolio [My Code Fellows Notes](https://github.com/JaredPlummer5)
+[Back to home page](../reading-notes-102d43/README.md)
