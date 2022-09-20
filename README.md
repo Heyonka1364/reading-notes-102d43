@@ -50,7 +50,7 @@ You can make the text anything you want and the text will show up as the url lin
 
 And then we learned how to link a url link and attach it to our website. 
 
-The code for that would be [Insert text] (insert url link). 
+The code for that would be square brackets with text inbetween and then round brackets with the url link inbetween. 
 
 You can make the text anything you want and the text will show up as the url link on your website. 
 
