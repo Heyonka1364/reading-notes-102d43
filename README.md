@@ -44,7 +44,18 @@ See example in order below
 
 Moving on to images. Images can really pull a website together and with Markdown we can pull images from all over the internet.
 
-The syntax for an image would be \*![This is not an image](insert image address)\*
+The syntax for an image would be \*![This is not an image](insert image address)\*. 
+
+You can make the text anything you want and the text will show up as the url link on your website.
+
+And then we learned how to link a url link and attach it to our website. 
+
+The code for that would be \*[Insert text](insert url link)\*. 
+
+You can make the text anything you want and the text will show up as the url link on your website. 
+
+The link to my portfolio down below is a perfect example of what it should look like.
+
 
 
 
