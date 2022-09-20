@@ -19,6 +19,10 @@ and literally to become more intelligent than we were before. ~ALFRED BINET
 
 ![This is a image](https://media.makeameme.org/created/you-got-this-2d58ec8834.jpg)
 
+# Markdown
 
+Markdown is a simpler version of HTML. It syntax is much different. Markdown uses symbols to achive differernt formats.
+
+For example, to create the Markdown header, you would need to type \*# Markdown\* 
 Link to my portfolio [My Code Fellows Notes](https://github.com/JaredPlummer5)
 
