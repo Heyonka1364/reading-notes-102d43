@@ -85,6 +85,7 @@ Moving on to commiting. Commiting basically updates anything you do in VSCode to
 - git commit -m "this is a message you type in the terminal to tell what you've changed in detail" (avoid punuation in the messag).
 
 - git commit -a (this applies all change to your code in GitHub)
-git push origin main(this relays all changes to Github)
+
+-git push origin main(this relays all changes to Github)
 
 [Back to home page](../reading-notes-102d43/README.md)
