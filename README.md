@@ -17,7 +17,7 @@ Hi, my name is Jared Plummer.
 
 [Class 5](./102/Class5.md)
 
-[Class 6](./102/Class.6md)
+[Class 6](./102/Class6.md)
 
 [Class 7](./102/Class7.md)
 
