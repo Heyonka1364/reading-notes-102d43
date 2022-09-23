@@ -36,4 +36,4 @@ You can make the text anything you want and the text will show up as the url lin
 
 The link to my portfolio down below is a perfect example of what it should look like.
 
-[Back to home page](../reading-notes-102d43/README.md)
+[Back to home page](../README.md)

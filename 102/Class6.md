@@ -86,4 +86,4 @@ Examples:
 
 - Loops
 
-[Back to home page](../reading-notes-102d43/README.md)
+[Back to home page](../README.md)

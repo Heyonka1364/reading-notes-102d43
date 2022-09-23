@@ -14,4 +14,4 @@ Once you're done please type the list one by one in your termianl to make sure e
 - eslint --version
 - tree --version
 
-[Back to home page](../reading-notes-102d43/README.md)
+[Back to home page](../README.md)

@@ -64,4 +64,4 @@ For targeting one section name the variable something different and replace the 
     border: 10px solid #FF9142;
 }`
 
-[Back to home page](../reading-notes-102d43/README.md)
+[Back to home page](../README.md)
