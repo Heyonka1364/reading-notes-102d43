@@ -116,4 +116,6 @@ A comparison operator compares its operands and returns a logical value based on
 
 The opreands can be numerical, string, logical, or object values. If the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. Two exceptions to type conversion within comparisons invole the `====` and `!==` operators. These operators do not attempt to convert the operands to compatible types.
 
+[Lecture and passcode:  nV16=#0Vpm ](https://zoom.us/rec/share/30i8VSDFex30amWsM9bFrGv2zOzW6j7ZEKpGZiQvGp8ikVC_gGH3yyXJlRP_JEpz.WNdNIkcS9huguZqI)
+
 [Back to home page](../README.md)

@@ -88,4 +88,6 @@ Moving on to commiting. Commiting basically updates anything you do in VSCode to
 
 -git push origin main(this relays all changes to Github)
 
+[Lecture and password :9q1kAyFkE](https://zoom.us/rec/share/_cFB7wF6ui0iQr5gjfvos-RogTf6uz5ft24Y6ddVZh7osYBg2HQdZYdayXGtv0rH.UGtHZpsHDEI-oHL9)
+
 [Back to home page](../README.md)

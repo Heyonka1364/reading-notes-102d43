@@ -86,4 +86,6 @@ Examples:
 
 - Loops
 
+[Lecture and passcode: #*LrviZNA2](https://zoom.us/rec/share/pp_nMudiPTesaimENLBYA9xItfIzthwAZJU8GKtCPez55sK8-i99T4BfolIdcE44.wdz-qTe81HGW_FKU)
+
 [Back to home page](../README.md)

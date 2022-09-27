@@ -36,4 +36,6 @@ You can make the text anything you want and the text will show up as the url lin
 
 The link to my portfolio down below is a perfect example of what it should look like.
 
+[Lecture and password : UNEi%5=1Ga](https://zoom.us/rec/share/i3giKC0n0_FDHbcP-Ap2B-dFuOqfeh1a3BVYUSFZz3YdGx8PF0tw88XX6rFH2B5n.d1wMtA2mD_a2rS6t)
+
 [Back to home page](../README.md)

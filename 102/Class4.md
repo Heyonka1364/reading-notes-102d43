@@ -57,4 +57,8 @@ To sumarize an element may contain a data item or a chunk of text or an image, o
 
 [HTML_Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
+[Lecture and passcode: 9q1kAyFkE](https://zoom.us/rec/share/nRAGiTeqQkhxRuWMr90nGm2xpwvHHvI5HwhWY27vUrHe4pgoQmS3XqMfvD1mZ_Z4._Tglh-dCuvB2VAyP)
+
+
+
 [Back to home page](../README.md)

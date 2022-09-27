@@ -64,4 +64,7 @@ For targeting one section name the variable something different and replace the 
     border: 10px solid #FF9142;
 }`
 
+
+[Lecture and passcode: 3JEb%4bgP+](https://zoom.us/rec/share/F5_QB-yPRGoDVyWL4mJEReemVFPuKKKLgaEypJRiDacsnoMotwPAdmV0F2Sv_Cie.tlPkUHsWSdCORH9U)
+
 [Back to home page](../README.md)

@@ -171,4 +171,6 @@ Syntax
  Pick up a shirt. Find the left sleeve. Put the left arm in the left sleeve. Find the head hole. Put your head in the head hole. Find the right sleeve. Put the right are in the right sleeve. Slide the rest of the shirt down the torrso.
 
 
+[Lecture and passcode: 7T0s781LZC ](https://zoom.us/rec/share/tzjaW-3mtwadGFMKG8Ld-Bw-8b3Hr9blYM-le5HXLcMhGfdYZh5xEMRsxxV_cio._2Cx3FwTCih-4aFR)
+
 [Back to home page](../README.md)

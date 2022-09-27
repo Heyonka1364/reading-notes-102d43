@@ -14,4 +14,6 @@ Once you're done please type the list one by one in your termianl to make sure e
 - eslint --version
 - tree --version
 
+[Lecture and password :+7A80LFIc?](https://zoom.us/rec/share/_cFB7wF6ui0iQr5gjfvos-RogTf6uz5ft24Y6ddVZh7osYBg2HQdZYdayXGtv0rH.UGtHZpsHDEI-oHL9)
+
 [Back to home page](../README.md)
